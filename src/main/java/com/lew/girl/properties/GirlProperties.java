@@ -1,5 +1,5 @@
-package com.lew.girl;
-
+package com.lew.girl.properties;
+//内容
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 

@@ -1,5 +1,6 @@
-package com.lew.girl;
-
+package com.lew.girl.repository;
+//仓库
+import com.lew.girl.domain.Girl;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
